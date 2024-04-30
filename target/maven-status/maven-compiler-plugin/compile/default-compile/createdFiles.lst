@@ -1,0 +1,7 @@
+in\spring\document\Book.class
+in\spring\service\BookService.class
+in\spring\RenderRestApi1Application.class
+in\spring\repo\BookRepository.class
+in\spring\service\BookServiceImpl.class
+in\spring\config\CorsConfig.class
+in\spring\rest\BookRestController.class
